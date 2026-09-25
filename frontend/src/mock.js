@@ -17,15 +17,15 @@ export const VIDEO_SECOND =
 
 // Atmospheric osteopathy imagery (composition-matched to reference)
 export const IMG = {
-  hero: "https://images.unsplash.com/photo-1598901986949-f593ff2a31a6",
-  shoulder: "https://images.unsplash.com/photo-1494228766058-1430438d10fc",
-  backHands: "https://images.unsplash.com/photo-1699523229208-be1e1dd9252d",
-  neckWork: "https://images.unsplash.com/photo-1649751295468-953038600bef",
-  stretch: "https://images.unsplash.com/photo-1706353399656-210cca727a33",
-  roomSofa: "https://images.unsplash.com/photo-1787496994323-59ac5cff09f9",
-  roomTable: "https://images.unsplash.com/photo-1630835425197-50feeba99ecd",
-  roomTable2: "https://images.unsplash.com/photo-1630835474626-b4de96a25186",
-  reviewer: "https://images.unsplash.com/photo-1544005313-94ddf0286df2",
+  hero: "https://images.unsplash.com/photo-1598901986949-f593ff2a31a6?auto=format&fit=crop&w=2400&q=85",
+  shoulder: "https://images.unsplash.com/photo-1494228766058-1430438d10fc?auto=format&fit=crop&w=1600&q=85",
+  backHands: "https://images.unsplash.com/photo-1699523229208-be1e1dd9252d?auto=format&fit=crop&w=1600&q=85",
+  neckWork: "https://images.unsplash.com/photo-1649751295468-953038600bef?auto=format&fit=crop&w=1400&q=85",
+  stretch: "https://images.unsplash.com/photo-1706353399656-210cca727a33?auto=format&fit=crop&w=1800&q=85",
+  roomSofa: "https://images.unsplash.com/photo-1787496994323-59ac5cff09f9?auto=format&fit=crop&w=1600&q=85",
+  roomTable: "https://images.unsplash.com/photo-1630835425197-50feeba99ecd?auto=format&fit=crop&w=1800&q=85",
+  roomTable2: "https://images.unsplash.com/photo-1630835474626-b4de96a25186?auto=format&fit=crop&w=1400&q=85",
+  reviewer: "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=400&q=85",
 };
 
 // Nav
