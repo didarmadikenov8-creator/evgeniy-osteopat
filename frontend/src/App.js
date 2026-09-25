@@ -37,7 +37,7 @@ const Home = () => {
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/evgeniy-osteopat">
       <Routes>
         <Route path="/" element={<Home />} />
       </Routes>
