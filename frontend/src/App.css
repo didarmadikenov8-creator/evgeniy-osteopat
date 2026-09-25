@@ -1,0 +1,12 @@
+.App {
+  min-height: 100vh;
+}
+
+/* color tokens used across the site */
+:root {
+  --dark: #222b26;
+  --dark-deep: #171d19;
+  --cream: #ece6da;
+  --cream-card: #e5dccb;
+  --sage: #7f9a73;
+}
